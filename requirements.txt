@@ -2,6 +2,7 @@ ipython
 jupyterlab
 matplotlib
 mkdocs
+seaborn
 notebook
 numpy
 pandas
@@ -9,4 +10,5 @@ pip
 python-dotenv
 ruff
 scikit-learn
+imblearn
 -e .
